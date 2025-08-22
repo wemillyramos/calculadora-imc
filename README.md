@@ -1,6 +1,6 @@
 # 🧮 Calculadora de IMC
 
-Este projeto é uma **calculadora interativa de IMC (Índice de Massa Corporal)** desenvolvida como atividade acadêmica para a disciplina de Desenvolvimento Web. O objetivo é aplicar conhecimentos e praticar em um projeto prático e funcional.
+Este projeto é uma **calculadora interativa de IMC (Índice de Massa Corporal)** desenvolvida como atividade acadêmica. O objetivo é aplicar conhecimentos e praticar em um projeto prático e funcional.
 
 ---
 
